@@ -1,0 +1,7 @@
+export enum ClientState {
+  DISCONNECTED,
+  ROOM_SELECT,
+  WAIT_ADMIN,
+  SENTENCE_COLLECTION,
+  SENTENCE_SHOWUP,
+}
